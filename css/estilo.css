@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+#ind{
+    background-color: burlywood;
+}
+
+#pag1{
+    background-color: darkgoldenrod;
+}
+
+#cont{
+    background-color: dimgray;
+}
